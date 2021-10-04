@@ -6,7 +6,6 @@ Cada Linha consiste em uma posição de memória no qual cada posição é estru
 
 ```
 indice-da-memoria.chave-do-dado.dado
-
 ```
 
 ### Exemplos:
