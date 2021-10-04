@@ -5,7 +5,7 @@ Esse projeto tem como objetivo a simulação de uma memória real, para verifica
 Cada Linha consiste em uma posição de memória no qual cada posição é estruturada da seguinte forma
 
 `
-**indice-da-memoria.chave-do-dado.dado**
+indice-da-memoria.chave-do-dado.dado
 `
 
 ### Exemplos:
